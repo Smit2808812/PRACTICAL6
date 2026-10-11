@@ -1,0 +1,108 @@
+
+[
+    {
+        "id": 1,
+        "title": "Freshers Welcome",
+        "date": "2026-01-12",
+        "venue": "College Auditorium",
+        "category": "Cultural"
+    },
+    {
+        "id": 2,
+        "title": "Republic Day Program",
+        "date": "2026-01-26",
+        "venue": "Main Ground",
+        "category": "National"
+    },
+    {
+        "id": 3,
+        "title": "Programming Contest",
+        "date": "2026-02-08",
+        "venue": "Computer Lab",
+        "category": "Technical"
+    },
+    {
+        "id": 4,
+        "title": "Science Fair",
+        "date": "2026-02-20",
+        "venue": "Exhibition Hall",
+        "category": "Academic"
+    },
+    {
+        "id": 5,
+        "title": "Placement Seminar",
+        "date": "2026-03-04",
+        "venue": "Seminar Hall",
+        "category": "Career"
+    },
+    {
+        "id": 6,
+        "title": "Frontend Development Workshop",
+        "date": "2026-03-16",
+        "venue": "Computer Lab",
+        "category": "Technical"
+    },
+    {
+        "id": 7,
+        "title": "Campus Cultural Fest",
+        "date": "2026-04-05",
+        "venue": "College Ground",
+        "category": "Cultural"
+    },
+    {
+        "id": 8,
+        "title": "General Knowledge Quiz",
+        "date": "2026-04-15",
+        "venue": "Room 102",
+        "category": "Academic"
+    },
+    {
+        "id": 9,
+        "title": "Photography Exhibition",
+        "date": "2026-05-10",
+        "venue": "Art Gallery",
+        "category": "Creative"
+    },
+    {
+        "id": 10,
+        "title": "Startup Awareness Session",
+        "date": "2026-05-22",
+        "venue": "Seminar Hall",
+        "category": "Career"
+    },
+    {
+        "id": 11,
+        "title": "Independence Day Event",
+        "date": "2026-08-15",
+        "venue": "College Ground",
+        "category": "Cultural"
+    },
+    {
+        "id": 12,
+        "title": "Coding Hackathon",
+        "date": "2026-08-28",
+        "venue": "Innovation Lab",
+        "category": "Technical"
+    },
+    {
+        "id": 13,
+        "title": "Teachers Appreciation Day",
+        "date": "2026-09-05",
+        "venue": "Main Auditorium",
+        "category": "Cultural"
+    },
+    {
+        "id": 14,
+        "title": "Intercollege Debate",
+        "date": "2026-09-20",
+        "venue": "Seminar Hall",
+        "category": "Academic"
+    },
+    {
+        "id": 15,
+        "title": "Annual College Celebration",
+        "date": "2026-12-18",
+        "venue": "College Auditorium",
+        "category": "Cultural"
+    }
+]

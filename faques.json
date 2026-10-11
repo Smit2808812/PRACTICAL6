@@ -1,0 +1,53 @@
+
+[
+    {
+        "id": 1,
+        "question": "What is BCA?",
+        "answer": "BCA stands for Bachelor of Computer Applications. It is an undergraduate degree related to computer applications."
+    },
+    {
+        "id": 2,
+        "question": "What is B.Sc IT?",
+        "answer": "B.Sc IT is a bachelor's degree that focuses on information technology, software and computer systems."
+    },
+    {
+        "id": 3,
+        "question": "What is JavaScript?",
+        "answer": "JavaScript is a programming language used to add interactive and dynamic features to websites."
+    },
+    {
+        "id": 4,
+        "question": "What is HTML?",
+        "answer": "HTML stands for HyperText Markup Language. It defines the structure and content of web pages."
+    },
+    {
+        "id": 5,
+        "question": "What is CSS?",
+        "answer": "CSS stands for Cascading Style Sheets. It controls the appearance and layout of web pages."
+    },
+    {
+        "id": 6,
+        "question": "What is JSON?",
+        "answer": "JSON stands for JavaScript Object Notation. It is a lightweight format used to exchange structured data."
+    },
+    {
+        "id": 7,
+        "question": "What is Fetch API?",
+        "answer": "Fetch API allows JavaScript to send network requests and retrieve resources such as JSON data."
+    },
+    {
+        "id": 8,
+        "question": "What is a programming language?",
+        "answer": "A programming language is used to write instructions that a computer can execute."
+    },
+    {
+        "id": 9,
+        "question": "What is a database?",
+        "answer": "A database is an organized collection of information that can be stored, managed and retrieved."
+    },
+    {
+        "id": 10,
+        "question": "What is a web browser?",
+        "answer": "A web browser is software that allows users to access and view websites on the internet."
+    }
+]

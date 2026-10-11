@@ -1,0 +1,123 @@
+
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "email": "rahul.sharma@gmail.com",
+        "mobile": "9876501001",
+        "course": "BCA",
+        "year": "First Year"
+    },
+    {
+        "id": 2,
+        "name": "Smit Prajapati",
+        "email": "25cs085@gmail.com",
+        "mobile": "9876501002",
+        "course": "B.Sc IT",
+        "year": "Second Year"
+    },
+    {
+        "id": 3,
+        "name": "Amit Mehta",
+        "email": "amit.mehta@gmail.com",
+        "mobile": "9876501003",
+        "course": "BBA",
+        "year": "Third Year"
+    },
+    {
+        "id": 4,
+        "name": "Neha Patel",
+        "email": "neha.patel@gmail.com",
+        "mobile": "9876501004",
+        "course": "MCA",
+        "year": "First Year"
+    },
+    {
+        "id": 5,
+        "name": "Karan Joshi",
+        "email": "karan.joshi@gmail.com",
+        "mobile": "9876501005",
+        "course": "BCA",
+        "year": "Second Year"
+    },
+    {
+        "id": 6,
+        "name": "Pooja Desai",
+        "email": "pooja.desai@gmail.com",
+        "mobile": "9876501006",
+        "course": "B.Sc IT",
+        "year": "Third Year"
+    },
+    {
+        "id": 7,
+        "name": "Vivek Trivedi",
+        "email": "vivek.trivedi@gmail.com",
+        "mobile": "9876501007",
+        "course": "BBA",
+        "year": "First Year"
+    },
+    {
+        "id": 8,
+        "name": "Anjali Mehta",
+        "email": "anjali.mehta@gmail.com",
+        "mobile": "9876501008",
+        "course": "MCA",
+        "year": "Second Year"
+    },
+    {
+        "id": 9,
+        "name": "Rohan Shah",
+        "email": "rohan.shah@gmail.com",
+        "mobile": "9876501009",
+        "course": "BCA",
+        "year": "Third Year"
+    },
+    {
+        "id": 10,
+        "name": "Sneha Patel",
+        "email": "sneha.patel@gmail.com",
+        "mobile": "9876501010",
+        "course": "B.Sc IT",
+        "year": "First Year"
+    },
+    {
+        "id": 11,
+        "name": "Harsh Pandya",
+        "email": "harsh.pandya@gmail.com",
+        "mobile": "9876501011",
+        "course": "BBA",
+        "year": "Second Year"
+    },
+    {
+        "id": 12,
+        "name": "Riya Shah",
+        "email": "riya.shah@gmail.com",
+        "mobile": "9876501012",
+        "course": "MCA",
+        "year": "Third Year"
+    },
+    {
+        "id": 13,
+        "name": "Dev Patel",
+        "email": "dev.patel@gmail.com",
+        "mobile": "9876501013",
+        "course": "BCA",
+        "year": "First Year"
+    },
+    {
+        "id": 14,
+        "name": "Komal Joshi",
+        "email": "komal.joshi@gmail.com",
+        "mobile": "9876501014",
+        "course": "B.Sc IT",
+        "year": "Second Year"
+    },
+    {
+        "id": 15,
+        "name": "Yash Desai",
+        "email": "yash.desai@gmail.com",
+        "mobile": "9876501015",
+        "course": "BBA",
+        "year": "Third Year"
+    }
+]

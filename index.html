@@ -1,0 +1,49 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campus Student Directory</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="container">
+        <header class="hero">
+            <p class="tag">CAMPUS CONNECT</p>
+            <h1>Student Directory</h1>
+            <p>Find and explore student information easily.</p>
+        </header>
+
+        <section class="controls">
+            <input type="text" id="search" placeholder="Search by name, email or course">
+
+            <select id="courseFilter">
+                <option value="All">All Courses</option>
+                <option value="BCA">BCA</option>
+                <option value="B.Sc IT">B.Sc IT</option>
+                <option value="BBA">BBA</option>
+                <option value="MCA">MCA</option>
+            </select>
+
+            <button id="sortBtn">Name A-Z</button>
+        </section>
+
+        <p id="loading">Fetching student information...</p>
+        <p id="error"></p>
+
+        <section id="studentContainer" class="student-grid"></section>
+
+        <nav class="pagination">
+            <button id="prevBtn">Previous</button>
+            <span id="pageNumber">Page 1</span>
+            <button id="nextBtn">Next</button>
+        </nav>
+
+        <footer>Campus Connect &copy; 2026</footer>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
+```
